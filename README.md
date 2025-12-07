@@ -1,2 +1,2 @@
 # super-game
-Super Game
+Super Game!
