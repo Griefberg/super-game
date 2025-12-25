@@ -1,0 +1,73 @@
+# --------------------------------------------------
+# Godot engine
+# --------------------------------------------------
+
+# Imported assets (auto-generated)
+.import/
+*.import
+
+# Godot 4 cache
+.godot/
+
+# Godot editor files (user-specific)
+*.uid
+
+# Export presets (optional: keep if you want reproducible exports)
+# export_presets.cfg
+
+# --------------------------------------------------
+# Mono / C# (if using Godot .NET)
+# --------------------------------------------------
+
+# Build artifacts
+.mono/
+.vs/
+.vscode/
+.idea/
+
+# C# build output
+bin/
+obj/
+
+# --------------------------------------------------
+# Logs and temporary files
+# --------------------------------------------------
+
+*.log
+*.tmp
+*.temp
+*~
+
+# --------------------------------------------------
+# OS / Editor noise
+# --------------------------------------------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# --------------------------------------------------
+# Godot exports / builds
+# --------------------------------------------------
+
+# Exported games
+export/
+build/
+dist/
+
+# --------------------------------------------------
+# Backup files
+# --------------------------------------------------
+
+*.bak
+*.old
+
